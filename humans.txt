@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Grace   grace.lindelien@hover.to
 
 # THANKS
 
